@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:1264px;
+  width:1109px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -17,7 +17,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1219px;
+  width:1064px;
   height:127px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
@@ -35,7 +35,7 @@
   position:absolute;
   left:45px;
   top:125px;
-  width:1219px;
+  width:1064px;
   height:127px;
 }
 #u128_text {
@@ -108,7 +108,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:164px;
+  width:166px;
   white-space:nowrap;
 }
 #u131_div {
@@ -132,8 +132,8 @@
 #u131 {
   border-width:0px;
   position:absolute;
-  left:57px;
-  top:58px;
+  left:45px;
+  top:61px;
   width:270px;
   height:28px;
   font-family:'Arial Bold', 'Arial';
@@ -169,7 +169,7 @@
 #u132 {
   border-width:0px;
   position:absolute;
-  left:1119px;
+  left:964px;
   top:125px;
   width:145px;
   height:127px;
@@ -204,7 +204,7 @@
 #u133 {
   border-width:0px;
   position:absolute;
-  left:1180px;
+  left:1025px;
   top:178px;
   width:26px;
   height:22px;
@@ -262,7 +262,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1219px;
+  width:1064px;
   height:127px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
@@ -280,7 +280,7 @@
   position:absolute;
   left:45px;
   top:264px;
-  width:1219px;
+  width:1064px;
   height:127px;
 }
 #u135_text {
@@ -353,7 +353,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:193px;
+  width:197px;
   white-space:nowrap;
 }
 #u138_div {
@@ -381,7 +381,7 @@
 #u138 {
   border-width:0px;
   position:absolute;
-  left:1119px;
+  left:964px;
   top:264px;
   width:145px;
   height:127px;
@@ -394,7 +394,7 @@
   border-width:0px;
   position:absolute;
   left:2px;
-  top:53px;
+  top:52px;
   width:141px;
   word-wrap:break-word;
 }
@@ -432,7 +432,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:234px;
+  width:233px;
   white-space:nowrap;
 }
 #u140_div {
@@ -440,7 +440,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1219px;
+  width:1064px;
   height:127px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
@@ -458,7 +458,7 @@
   position:absolute;
   left:45px;
   top:403px;
-  width:1219px;
+  width:1064px;
   height:127px;
 }
 #u140_text {
@@ -531,7 +531,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:174px;
+  width:173px;
   white-space:nowrap;
 }
 #u143_div {
@@ -559,7 +559,7 @@
 #u143 {
   border-width:0px;
   position:absolute;
-  left:1119px;
+  left:964px;
   top:403px;
   width:145px;
   height:127px;
@@ -572,7 +572,7 @@
   border-width:0px;
   position:absolute;
   left:2px;
-  top:53px;
+  top:52px;
   width:141px;
   word-wrap:break-word;
 }
